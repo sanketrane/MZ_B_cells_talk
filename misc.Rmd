@@ -1,0 +1,51 @@
+
+
+##  .center[Potential mechanisms]
+<hr>
+
+.pull-top[
+.pull-left[
+### Neutral model
+- Naive T cells have equal fitness and obey a simple random birth–death process.
+]
+
+.pull-right[
+### Competition 
+- Regulation of cell numbers through quorum-sensing (limiting shared resources).
+</br>
+]
+]
+
+--
+
+</br>
+
+.pull-bottom[
+.pull-left[
+### Selection 
+- loss or outgrowth of cell populations deriving from intercellular variation in fitness
+]
+
+.pull-right[
+### Adaptation 
+- Cell-intrinsic changes over time in homeostatic fitness (net growth rate), age before beauty.
+]
+]
+
+???
+#### First come last out &mdash;
+Naive cells that are produced early in life ve homeostatic advantage.
+
+class: center, middle
+
+###  .center[Potential mechanisms]
+<hr>
+
+
+```{r echo=FALSE, fig.retina=3, fig.asp='1', out.height='450'}
+
+knitr::include_graphics("figures/model_concepts.png")
+```
+
+
+---
