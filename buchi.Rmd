@@ -10,7 +10,7 @@ class: center
 <hr>
 
 
-```{r echo=FALSE, fig.retina=3, out.width='60%'}
+```{r echo=FALSE, fig.retina=3, out.width='55%'}
 
 knitr::include_graphics("figures/homeostasis_processes.png")
 ```
@@ -25,9 +25,11 @@ Does the relative contribution of these processes vary across a lifetime?
 
 --
 
+<br>
+
 .left[
 ### What are the rules of their replacement?
-  - Random division and loss? Hierarchy?
+  - Random displacement? Hierarchy?
   - Conveyor belt? First-in-last-out?
 ]
 ---
@@ -37,13 +39,11 @@ Does the relative contribution of these processes vary across a lifetime?
 
 ### MZ B cell clonal repertoire:
 
-- Augmented by flow of new cells from the thymus <span style="color:#035AA6;"> &#8594; enhances diversity.</span>
+- Augmented by flow of new cells from the BM <span style="color:#035AA6;"> &#8594; enhances diversity.</span>
 
---
-  
+
 - Sustained by proliferation (homeostatic self-renewal) <span style="color:#035AA6;"> &#8594;skews diversity</span>
 
---
 
 
 - Depleted by loss of cells (by death and onward differentiation).
@@ -75,7 +75,7 @@ knitr::include_graphics("figures/BUCHI_diag.jpg")
 
 ```{r echo=FALSE, fig.retina=3, out.width='60%'}
 
-knitr::include_graphics("figures/flow_data.jpg")
+knitr::include_graphics("figures/flow_data.png")
 ```
 
 
@@ -89,7 +89,7 @@ class: center, middle
 
 <hr>
 
-```{r echo=FALSE, fig.retina=3, out.height='90%'}
+```{r echo=FALSE, fig.retina=3, out.height='80%'}
 
 knitr::include_graphics("figures/timecourse.jpg")
 ```
@@ -185,6 +185,24 @@ knitr::include_graphics("figures/chi_cartoon.png")
 
 knitr::include_graphics("figures/chi_expl.png")
 ```
+
+<hr>
+
+
+---
+count: false
+class: center, middle
+
+<hr>
+
+```{r echo=FALSE, fig.retina=3, out.height='80%'}
+
+knitr::include_graphics("figures/timecourse.jpg")
+```
+
+.right[
+##### Data from Seddon lab
+]
 
 <hr>
 ---

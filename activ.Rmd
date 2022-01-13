@@ -1,7 +1,7 @@
 
 class: center, middle, inverse
 
-## 3. Do the rules governing MZ B cell dynamics modulate during an ongoing immune response?
+## 3. Do distinct rules govern MZ B cell dynamics during an immune response and at steady-states?
 
 
 ???
@@ -57,7 +57,7 @@ Modelling the dynamics of development, death and differentiation in animals that
 
 ]
 
-
+--
 
 .pull-right[
 
@@ -68,11 +68,9 @@ knitr::include_graphics("figures/cgamma1.png")
 ]
 
 .right[
-##### Tea Babushku
+##### Tea Babushku, Zimber-Strobl group
 ]
---
 
-<br>
 
 
 
@@ -121,7 +119,7 @@ knitr::include_graphics("figures/bcell_matu2.jpg")
 ```
 
 
-- Fully mature follicular (FO) and very early stage transitional (T1) B cells can also  develop into MZ B cells depending on **Notch2** signal availability.
+- Fully mature follicular (FO) and very early stage transitional (T1) B cells can also  develop into MZ B cells depending on the **Notch2** signal availability.
 .right[
 ##### Lechner *et al.* Nat Comm 2021
 ]

@@ -48,7 +48,7 @@ knitr::include_graphics("figures/bcell_matu.jpg")
 #### Division of labour within B cells
 --->
 
-<h4 style="color:#035AA6; font-size:100%"> 
+<h4 style="color:#006789; font-size:100%"> 
 Marginal Zone is an anatomical barrier that divides lymphocyte-rich follicles and the erythrocyte-rich red pulp.
 </h4>
 
@@ -58,7 +58,9 @@ Marginal Zone is an anatomical barrier that divides lymphocyte-rich follicles an
 knitr::include_graphics("figures/MZ_viz1.jpg")
 ```
 
-.right[*Zimber-Strobl group*]
+.right[*Zimber-Strobl group* 
+<p style="font-size:90%; color:#595959;">Lechner et al Nat Comm 2021 </p>
+]
 
 ]
 
@@ -86,93 +88,76 @@ MZ B cells are strategically positions to locate pathogens that breach systemic 
 
 ---
 
-## Gatekeeping and much more...
+### Gatekeeping and much more...
 <hr>
 
 
-<h4 style="color:#035AA6;">
-MZ B cells detect and neutralize pathogens carrying conserved molecular signatures  without T cell help.
-</h4>
+#### MZ B cells detect and neutralize pathogens carrying molecular signatures conserved through evolution.
+
+> - <span style="font-weight:bold;">Pattern-recognition-receptors </span> and <span style="font-weight:bold;">Poly-reactive</span> clones. 
+> - Respond to Lipolysacchrides and Peptidogycans in bacterial capsules. 
+> -  Constitutive pre-activated state.
+
 
 --
 
-  &#9901;  They are equipped with **Pattern-recognition-receptors** and **Poly-reactive** clones.
-
-  
---
-  
-  &#9901; High expression of **Toll-like** and **complement** receptors $\rightarrow$ Particulate-antigen sensing.
+** Rapid initiation of protective antibody responses against encapsulated bacteria. **
 
 --
-  
-  &#9901; Constitutive pre-activated state.
+
+<br>
+
+
+Reduction in MZ B cell numbers in splenectomized patients, infants and elderly increases the risk of
+> Pneumonitis, Meningitis, Fulminant septic syndrome and Pneumococcal diseases.
+
+.right[
+<p style="font-size:90%; color:#595959;">Guinamard et al. Nat Imm 2000, Kruetzmann et al. JEM 2003, Kruschinski et al. Human Path. 2004 </p>
+]
+
 
 
 ???
+
 In addition to this frontline role,
 unique programming and constitutive pre-activated state
---
-
-<br>
-
-<h3 style="color:#a64d79;">
-Rapid initiation of protective antibody responses encapsulated bacteria and some blood-borne viruses.
-</h3>
-
----
-
-<hr>
-
-<br>
+Dual engagement of  Toll-like-receptor **(TLR)** and B cell receptor **(BCR)** enables
 
 
-IBS patients show MZ related increased vulnerability to BB
 
-Reduction in MZ B cell numbers in splenectomized patients, infants and elderly increases risk of multiple bacterial infections
-
-
-<hr>
+IBS patients with inflammation in spleen also exhibit increased vulnerability to encapsulated bacterial infections.
 ---
 
 <hr>
 
 - #### MZ B cells are responsible for generation of **Natural antibodies.** 
   - Pre-made reservoir of antibodies in healthy individuals without previous immunizations/infections.
-  - Natural antibodies limit the dissemination of pathogens. 
-  - Pivotal in the early phases of infection and before the highly specific T and B cell response is engaged.
+  - Pivotal in the early phases of infection and in **autoimmune pathologies** such as Sjögren’s syndrome, Graves’ disease and autoimmune vasculitis.
+
+
+.right[
+<p style="font-size:90%; color:#595959;">Palm and Kleinau JA 2021,  Guerrier et al. JA 2012, Segundo et al. Thyroid 2001
+</p>
+]
+
 
 --
-
-- #### Natural antibodies also play a significant role in controlling **autoimmune pathologies**.
-  - Indeed, in humans MZ B cells are associated with
-      - Sjögren’s syndrome, 
-      - Graves’ disease and
-      - autoimmune vasculitis.
-
-
----
-
-<hr>
-
-### Jack of all trades
-
-+ Response against **T-independent antigens** predominantly comes from MZ B cells.
-
---
-
-+ They **transport** captured antigens to the follicles.
-
---
-
-+ They present antigens to T cells and activate them, faster than FO B cells.
-
---
-
-+ They are also capable of forming germinal centers that lead to somatically mutated and class-switched memory.
 
 <br>
 
+- Response against **T-independent antigens** predominantly comes from MZ B cells.
+
+- They also present antigens to T cells and activate them, faster than FO B cells.
+
+.right[
+<p style="font-size:90%; color:#595959;">Attanavanich et al. JI 2004, Oliver et al. JI 1999, Cinamon et al. Nat Imm 2004
+</p>
+]
+
+
 --
+
+<br>
 
 .center[
 ### MZ B cells represent a crossover between innate and adaptive immunity, spearheading early antibody responses against systemic pathogens

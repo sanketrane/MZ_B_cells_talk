@@ -31,6 +31,9 @@ class: inverse
 
 - We have recently demonstrated that the efficiency of development of FO B cells is lower in neonates than in adults.
 
+.right[
+<p style="font-size:90%; color:#ffffff;"> Verheijen et al. Cell Reports 2020 </p>
+]
 --
 
   -  Do similar host age-effects manifest in MZ B cell dynamics?
