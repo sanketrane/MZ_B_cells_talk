@@ -166,7 +166,6 @@ class: center
 knitr::include_graphics("figures/chi_cartoon.png")
 ```
 
---
 
 <p style="font-size:85%"> 
 <span style="font-weight:bold">Upslope – </span> How fast host cells are replaced by donor-BM-derived cells. </br>

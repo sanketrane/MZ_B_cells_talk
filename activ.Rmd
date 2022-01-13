@@ -204,7 +204,13 @@ class: middle
 knitr::include_graphics("figures/immune-model.png")
 ```
 
+<br>
 
+$$
+\theta = \beta \, F \quad \quad \quad \quad \quad \quad
+\phi = \mu_1 \, F + \mu_2 \, G
+$$
+<hr>
 ---
 
 
@@ -212,7 +218,8 @@ knitr::include_graphics("figures/immune-model.png")
 <hr>
 
 - **Competition** for development?
-  - Developing B cells compete for Notch2 ligands.
+
+  - Developing B cells compete for limiting concentration of Notch2 ligands.
 
 --
 
@@ -236,9 +243,47 @@ class: center
 ### Acknowledgements
 <hr>
 
----
-class: center, inverse, middle
+.pull-left[
+#### University College London
+Dr. Benedict Seddon </br>
+Dr. Melissa Verheijen
+]
 
-##Thanks!
+.pull-right[
+#### Helmholtz Zentrum München
+Dr. Ursula Zimber-Strobl </br>
+Dr. Lothar Strobl </br>
+Tea Babushku
+]
+
+
+#### Columbia University
+Dr. Andrew Yates
+
+--
+
+
+</br>
+
+### A big thanks to **IICD** family!
+
+
+```{r echo=FALSE, fig.retina=3, out.width="70%"}
+knitr::include_graphics("figures/CancerLogo.png")
+```
+
+
+---
+class: center, middle
+
+## Thanks!
+
+</br>
+</br>
+</br>
+</br>
+
+
+Slides were created in `html5` using [remark.js](https://remarkjs.com) and R packages [**knitr**](http://yihui.name/knitr) and [**xaringan**](https://github.com/yihui/xaringan).
 
 

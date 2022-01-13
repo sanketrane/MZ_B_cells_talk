@@ -164,8 +164,14 @@ IBS patients with inflammation in spleen also exhibit increased vulnerability to
 ]
 
 ???
-T- antigens, in general failure to elicit high-affinity antibody response by FO B cells.
+TI antigens, in general failure to elicit high-affinity antibody response by FO B cells.
 
+Despite their importance multiple aspects of their biology remain poorly answered.
+There is a new wave of interest -- explosion of interest in understnading their physiology and I am riding that wave.
+
+It is difficult to study MZ B cells in humans because they are cecile, primarily located in spleen and are rarely found in blood.
+Most of this work is in mouse models.
+We hope to make sense of human pathologies in the light of findings from mice and in future aim to translate them in humans.
 
   
 
