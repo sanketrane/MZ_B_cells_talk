@@ -1,5 +1,5 @@
 ---
-title: How the gatekeepers of immune system are maintained throughout life? 
+title: How are the gatekeepers of the immune system maintained throughout life? 
 subtitle: Ontogeny and homeostasis of Marginal Zone B cells
 author: 
 institute: Sanket Rane
@@ -29,11 +29,12 @@ library(knitr)
 
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
 library(xaringanthemer)
-style_duo_accent(primary_color = "#035AA6", secondary_color = "#03A696",
+style_duo_accent(primary_color = "#035AA6", secondary_color = "#006789",
           header_font_google = google_font("Yanone Kaffeesatz"),
-          text_font_google   = google_font("Montserrat", "300", "300i"),
+          text_font_google   = google_font("IBM PLex Sans", "300", "300i"),
           code_font_google   = google_font("Fira Mono"))
 ```
+
 
 
 
@@ -44,6 +45,20 @@ style_duo_accent(primary_color = "#035AA6", secondary_color = "#03A696",
 
 ---
 
+```{r child='buchi.Rmd'}
+```
+
+
+---
+
+```{r child='onto.Rmd'}
+```
+
+
+---
+
+```{r child='activ.Rmd'}
+```
 
 
 

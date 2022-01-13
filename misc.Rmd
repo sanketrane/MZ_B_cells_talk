@@ -1,51 +1,38 @@
 
-
-##  .center[Potential mechanisms]
+## MZ B cell in mouse and man.
 <hr>
 
-.pull-top[
-.pull-left[
-### Neutral model
-- Naive T cells have equal fitness and obey a simple random birth–death process.
-]
+Establishment and numbers comparison
 
-.pull-right[
-### Competition 
-- Regulation of cell numbers through quorum-sensing (limiting shared resources).
-</br>
-]
-]
+Location
 
---
+Repertoire
 
-</br>
+Memory generation
 
-.pull-bottom[
-.pull-left[
-### Selection 
-- loss or outgrowth of cell populations deriving from intercellular variation in fitness
-]
-
-.pull-right[
-### Adaptation 
-- Cell-intrinsic changes over time in homeostatic fitness (net growth rate), age before beauty.
-]
-]
-
-???
-#### First come last out &mdash;
-Naive cells that are produced early in life ve homeostatic advantage.
-
-class: center, middle
-
-###  .center[Potential mechanisms]
-<hr>
-
-
-```{r echo=FALSE, fig.retina=3, fig.asp='1', out.height='450'}
-
-knitr::include_graphics("figures/model_concepts.png")
-```
-
+low frequency of IgM memory B cells correlates with increased susceptibility to peumonia in CVID patients
+Suggesting that reduced serum levels of all immunoglobulin isotypes ability to produce antipolysaccharide IgM may act as a protective marker in CVID patients.
 
 ---
+
+MZ B cell deficiency is considered to be a primary cause of increased frequency and severity of infections by pneumococcus and other encapsulated bacteria.
+
+these diseases are 20–100 times more frequent in individuals with asplenia, splenectomy, and SCD
+
+but also because of the increasing antibiotic resistance (20–50%).
+
+
+A frequently used vaccine contains a mixture of capsular polysaccharides from the 23 most com- mon pneumococcal serotypes. This vaccine is not effective in any of the groups at risk for the infection (12), probably because, as we have shown, they lack IgM memory B cells, which are the cell type specialized for the response to poly- saccharides (9). This lack explains also why the polysaccharide vaccine does not induce memory and revaccination leads to a similar or even reduced serological response compared to primary vaccination
+
+???
+
+### It is hard to study MZ B cells in humans because hard to identify them in blood. Because they are spatially restricted to lymphoid locations.
+
+Therefore our goal is to study them in mice first and translate the findings in humans (hopefully) later in more careful approaches.
+
+---
+
+
+
+
+
