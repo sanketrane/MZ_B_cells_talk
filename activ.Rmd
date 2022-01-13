@@ -189,7 +189,7 @@ class: middle
 
 --
 
-### 2. How do self-antigen induced BCR 'tonic signaling' and Notch2 mediated signaling interplay to drive MZ fate determination at steady states?
+### 2. How do B cells integrate  'tonic signals' through B cell receptor (BCR)  and Notch2 signals to determine cell-fate at steady states?
 
 <hr>
 ---
@@ -203,6 +203,38 @@ class: middle
 
 knitr::include_graphics("figures/immune-model.png")
 ```
+
+
+---
+
+
+### Interplay of BCR and Notch2 signals in MZ fate determination
+<hr>
+
+- **Competition** for development?
+  - Developing B cells compete for Notch2 ligands.
+
+--
+
+- **Selection** across natural variation in Notch2 expression?
+  - B cells that receive strong self-antigen:BCR signals up-regulate Notch2 and acquire MZ fate.
+  
+--
+.center[
+### `<< Insert answere here >>`
+]
+--
+
+<br>
+
+### Suggestions/discussion.
+
+---
+
+class: center
+
+### Acknowledgements
+<hr>
 
 ---
 class: center, inverse, middle

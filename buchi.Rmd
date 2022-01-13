@@ -27,11 +27,10 @@ Does the relative contribution of these processes vary across a lifetime?
 
 <br>
 
-.left[
 ### What are the rules of their replacement?
-  - Random displacement? Hierarchy?
-  - Conveyor belt? First-in-last-out?
-]
+>  Random displacement? Hierarchy? </br>
+>  Conveyor belt? First-in-last-out?
+
 ---
 
 <hr>
@@ -89,7 +88,7 @@ class: center, middle
 
 <hr>
 
-```{r echo=FALSE, fig.retina=3, out.height='80%'}
+```{r echo=FALSE, fig.retina=3}
 
 knitr::include_graphics("figures/timecourse.jpg")
 ```
@@ -188,23 +187,6 @@ knitr::include_graphics("figures/chi_expl.png")
 
 <hr>
 
-
----
-count: false
-class: center, middle
-
-<hr>
-
-```{r echo=FALSE, fig.retina=3, out.height='80%'}
-
-knitr::include_graphics("figures/timecourse.jpg")
-```
-
-.right[
-##### Data from Seddon lab
-]
-
-<hr>
 ---
 
 ### Division history of MZ B cells
@@ -240,6 +222,21 @@ knitr::include_graphics("figures/MZ_fits.png")
 
 <hr>
 
+---
+class: middle, center
+<hr>
+
+```{r echo=FALSE, fig.retina=3, out.width='90%'}
+
+knitr::include_graphics("figures/buchi-tab.png")
+```
+
+<br>
+
+### Almost all the Ki67 expression in the MZ pool is a residual signal from upstream precursors
+
+
+<hr>
 
 ---
 
